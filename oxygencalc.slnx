@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="oxygencalc.vcxproj" />
+  <Project Path="oxygencalc.vcxproj" Id="139c60ca-b6bd-40a0-aa37-b8aeb88c58ce" />
 </Solution>
