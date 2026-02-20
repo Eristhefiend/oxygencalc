@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="oxygencalc.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Doloop.cpp">
+    <ClCompile Include="docalc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
